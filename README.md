@@ -1,5 +1,5 @@
 # dheb-zsh
-Mostly pale colors, keeping it smple
+Mostly pale colors, keeping it simple
 
 ## Preview
 ![](preview.png)
