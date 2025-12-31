@@ -1,2 +1,5 @@
 # dheb-zsh
-My own zsh theme based on gnzh
+Mostly pale colors, keeping it smple
+
+## Preview
+![](preview.png)
